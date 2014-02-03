@@ -2,6 +2,8 @@
 
 DartBoard aims to improve a stock dart electronic board and consists of modified hardware and a Qt application.
 
+![Complete board](https://raw.github.com/PaulFreund/DartBoard/master/Info/Hardware_Photos/Board_Complete.jpg)
+
 ## Hardware
 
 The hardware is build by combining a PS/2 keyboard and a electronic dart board which work similiar based on M to N connection matrices. Information about the mapping and build can be found in the Info folder.
